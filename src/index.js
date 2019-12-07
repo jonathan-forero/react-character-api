@@ -1,7 +1,8 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import 'bootstrap/dist/css/bootstrap.css';
+import React from "react";
+import ReactDOM from "react-dom";
+import App from './components/App';
+import "./styles.css";
 
-const container = document.getElementById('root');
 
-ReactDOM.render(<div>HOLA MUNDO</div> , container);
+const rootElement = document.getElementById("root");
+ReactDOM.render(<App />, rootElement);
