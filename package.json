@@ -1,7 +1,7 @@
 {
   "name": "react-character-api",
   "version": "0.1.0",
-  "homepage": "https://Clonathan86/react-character-api",
+  "homepage": "https://clonathan86/react-character-api",
   "dependencies": {
     "bootstrap": "^4.4.1",
     "gh-pages": "^2.1.1",
