@@ -1,6 +1,7 @@
 {
   "name": "react-character-api",
   "version": "0.1.0",
+  "description": "breaking bad character api consume with fetch",
   "homepage": "https://clonathan86/react-character-api",
   "dependencies": {
     "bootstrap": "^4.4.1",
